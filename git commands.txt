@@ -1,0 +1,11 @@
+git --help
+
+git config --list
+
+git config --global user.name "Sushrut Palatkar"
+
+clear //to clear screen
+
+pwd
+
+cd ~ //go to home
