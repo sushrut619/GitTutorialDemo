@@ -9,3 +9,14 @@ clear //to clear screen
 pwd
 
 cd ~ //go to home
+
+git init
+
+git add .
+
+git commit -m "message"
+
+git status
+
+git diff
+
