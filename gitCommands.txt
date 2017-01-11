@@ -21,3 +21,5 @@ git status
 git diff
 
 git rm third.txt
+
+git mv commands.txt gitCommands.txt	//move or rename file
