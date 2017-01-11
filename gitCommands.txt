@@ -12,7 +12,7 @@ cd ~ //go to home
 
 git init
 
-git add .
+git add .		//add file or updates to staging area
 
 git commit -m "message"
 
