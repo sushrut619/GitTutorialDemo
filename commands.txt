@@ -20,3 +20,4 @@ git status
 
 git diff
 
+git rm third.txt
